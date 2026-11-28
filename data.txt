@@ -1,0 +1,51 @@
+Players,Nationality,Goals,Minutes played,Min/goal
+Kylian Mbappe,France,8,567,71
+Lionel Messi,Argentina,7,630,90
+Wout Weghorst,Netherlands,2,31,16
+Marcus Rashford,England,3,137,46
+Goncalo Ramos,Portugal,3,152,51
+Alvaro Morata,Spain,3,153,51
+Olivier Giroud,France,4,423,106
+Julian Alvarez,Argentina,4,467,117
+Niclas Fullkrug,Germany,2,66,33
+Enner Valencia,Ecuador,3,257,86
+Rafael Leao,Portugal,2,83,42
+Bukayo Saka,England,3,293,98
+Richarlison,Brazil,3,326,109
+Kai Havertz,Germany,2,102,51
+Giorgian De Arrascaeta,Uruguay,2,108,54
+Cody Gakpo,Netherlands,3,454,151
+Vincent Aboubakar,Cameroon,2,141,71
+Seung-Ho Paik,South Korea,1,25,25
+Ritsu Doan,Japan,2,217,109
+Ferran Torres,Spain,2,219,110
+Mohammed Kudus,Ghana,2,250,125
+Neymar,Brazil,2,251,126
+Aleksandar Mitrovic,Serbia,2,263,132
+Salem Al-Dawsari,Saudi Arabia,2,270,135
+Mehdi Taremi,Iran,2,270,135
+Gue-Sung Cho,South Korea,2,276,138
+Breel Embolo,Switzerland,2,327,164
+Bruno Fernandes,Portugal,2,357,179
+Robert Lewandowski,Poland,2,360,180
+Harry Kane,England,2,403,202
+Osman Bukari,Ghana,1,57,57
+Rouzbeh Cheshmi,Iran,1,58,58
+Mohammed Muntari,Qatar,1,60,60
+Carlos Soler,Spain,1,60,60
+Andrej Kramaric,Croatia,2,481,241
+Lovro Majer,Croatia,1,65,65
+Youssef En-Nesyri,Morocco,2,547,274
+Zakaria Aboukhlal,Morocco,1,73,73
+Dusan Vlahovic,Serbia,1,79,79
+Jack Grealish,England,1,80,80
+Wahbi Khazri,Tunisia,1,82,82
+Juan Pablo Vargas,Costa Rica,1,90,90
+Famara Diedhiou,Senegal,1,92,92
+Bamba Dieng,Senegal,1,96,96
+Mislav Orsic,Croatia,1,98,98
+Hee-Chan Hwang,South Korea,1,114,114
+Ricardo Horta,Portugal,1,118,118
+Takuma Asano,Japan,1,131,131
+Haji Wright,United States,1,135,135
+Ao Tanaka,Japan,1,142,142
